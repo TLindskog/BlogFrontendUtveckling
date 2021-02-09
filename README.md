@@ -1,2 +1,2 @@
-# BlogFrontendUtveckling
-Blog Frontend Utveckling
+# BloggFrontendUtveckling
+Blogg Frontend Utveckling
